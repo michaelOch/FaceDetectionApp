@@ -3,8 +3,8 @@ import React from 'react';
 const ImageLinkForm = ({ onInputChange, onButtonDetect }) => {
     return (
         <div className="text-center">
-            <p style={{fontSize: '18px'}} className="text-light">
-                {'This Magic Brain will detect faces in your pictures. Give it a try.'}
+            <p style={{fontSize: '18px', fontWeight: '800'}} className="text-light">
+                {'This Smart Brain will detect faces in your pictures. Give it a try.'}
             </p>
             <div className="shadow p-4 rounded">
                 <div className="input-group">

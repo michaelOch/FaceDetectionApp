@@ -6,7 +6,7 @@ const Rank = () => {
             <div style={{fontSize: '20px'}} className="text-light">
                 {'Odogwu, your current rank is...'}
             </div>
-            <h3 className="text-light">
+            <h3 style={{fontWeight: '800'}} className="text-success">
                 {'#5'}
             </h3>
         </div>
